@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KevinAsgaryansyah
+- 👋 Hi, I’m @Kevin Asgaryansyah
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning GDscript
   
-- 📫 How to reach me @K_Wallensteinz(Instagram)
+
 
 <!---
 KevinAsgaryansyah/KevinAsgaryansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
